@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Aplicativo PHP - Cruz e X</title>
+    Aplicativo PHP - Cruz e X
 </head>
 <body>
     <header>
